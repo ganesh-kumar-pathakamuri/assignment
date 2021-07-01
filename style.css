@@ -1,0 +1,56 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: aqua;
+}
+#ganeshp{
+	max-width: 900px;
+	margin: auto;
+	background-color: burlywood;
+	padding: 30;
+}
+header{
+	background-color: chartreuse;
+	height: 100px;
+	padding: 5px;
+}
+header h1{
+	text-transform: uppercase;
+	text-align: center;
+	color:blue;
+	line-height: 50px;
+}
+.rahul{
+	padding: 6px;
+	text-align: center;
+	line-height: 30px;
+	background-color: blueviolet;
+}
+ul.rahul{
+	margin-top: 10px;
+}
+.rahul li{
+	display: inline;
+	padding: 20px;
+	font-size: 20px;
+}
+.rahul a{
+	text-decoration: none;
+	color: mediumspringgreen;
+	padding: 10px;
+	font-variant: small-caps;
+}
+.rahul a:hover{
+	color: navy;
+}
+#star{
+	background-color: olive;
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+	height: 100%;
+
+}
